@@ -1,0 +1,23 @@
+.mainhead{
+    background-color: aliceblue;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+.learnmore{
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    background-color: rgb(35, 6, 98);
+    color: rgb(253, 253, 253);
+    margin-top: 20px;
+  }
+  .learnmore a{
+    text-decoration:none;
+    color:white;
+  }
+
+  .parent{
+    margin-top:50px;
+    display:flex;
+    justify-content:space-around;
+  }
